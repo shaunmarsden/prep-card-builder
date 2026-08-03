@@ -1,0 +1,40 @@
+# Prep Card Builder
+
+<p>
+  <img alt="Status: Working tool" src="https://img.shields.io/badge/status-working%20tool-2563eb">
+  <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
+</p>
+
+Turn scattered information into a concise, evidence-led card to scan before any important conversation, an interview, a negotiation, a difficult family conversation, a professional appointment.
+
+## Why
+
+Going into an important conversation with scattered notes, a public profile, and an assumption or two dressed up as fact is a common way to either miss the actual gap that matters or walk in overconfident about something nobody has actually confirmed. This organises what is genuinely known, flags what is not, and builds questions that target the real gap, not ones already answered elsewhere.
+
+## Use It
+
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in who this is with, the purpose, and whatever notes or background you have. It produces a card with:
+
+- **Confirmed context**, directly supported by what you actually have
+- **Public background**, useful, but never treated as proof of something private
+- **Assumptions to test** and **unknowns**, named honestly rather than papered over
+- **A working hypothesis**, one testable connection to check in the conversation itself
+- **Specific questions**, targeting the actual gap, plus a path for both outcomes
+
+See [the worked example](example/): preparing for a job interview, where a candidate's public LinkedIn posts about a topic get correctly kept separate from confirmed, direct evidence of the actual skill the role needs.
+
+Use [the blank template](templates/prep-card-template.md) for your own conversation.
+
+No installation, project, or coding required to try it once.
+
+## Before You Use It
+
+You check every source, remove anything inappropriate, and decide which questions or path to actually use live. This does not contact anyone or commit to anything on its own.
+
+## Licence
+
+MIT.
+
+## Feedback
+
+Used it before a real conversation? [Start a discussion](https://github.com/shaunmarsden/prep-card-builder/discussions) if something did not fit.
