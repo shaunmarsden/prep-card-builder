@@ -11,7 +11,7 @@ Turn scattered information into a concise, evidence-led card to scan before any 
 
 Going into an important conversation with scattered notes, a public profile, and an assumption or two dressed up as fact is a common way to get it wrong. You either miss the actual gap that matters, or walk in overconfident about something nobody has actually confirmed. This organises what is genuinely known, flags what is not, and builds questions that target the real gap, not ones already answered elsewhere.
 
-![A prep card built from confirmed information, public background, assumptions and unknowns.](assets/diagrams/12-prep-card-builder.svg)
+[![A prep card built from confirmed information, public background, assumptions and unknowns.](assets/diagrams/12-prep-card-builder.svg)](SKILL.md)
 
 ## Use It
 
