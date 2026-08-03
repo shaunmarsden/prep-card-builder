@@ -61,4 +61,4 @@ Stop and ask for clarification when:
 
 You check every source, remove anything inappropriate, and decide which questions or path to actually use live. This does not contact anyone or commit to anything on its own.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/prep-card-template.md) for your own conversation.
+For a fictional worked example, read [the worked example](example/). For the harder case, two sources that genuinely conflict and a request to build the hypothesis from an unsupported public guess, read [the second worked example](example-two/). Use [the blank template](templates/prep-card-template.md) for your own conversation, and [the review checklist](checks/checklist.md) before you go in.
