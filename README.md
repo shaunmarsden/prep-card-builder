@@ -43,10 +43,6 @@ No installation, project, or coding required to try it once.
 
 You check every source, remove anything inappropriate, and decide which questions or path to actually use live. This does not contact anyone or commit to anything on its own.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it before a real conversation? [Start a discussion](https://github.com/shaunmarsden/prep-card-builder/discussions) if something did not fit.
