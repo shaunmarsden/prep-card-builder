@@ -1,9 +1,9 @@
 # Human Review Checklist
 
-Run through this before the conversation.
+Go through this before the conversation.
 
-- [ ] Every source has been checked, and anything inappropriate removed
-- [ ] Public background is treated as context, not proof of a private fact, motivation, or capability
-- [ ] Any conflict between sources was surfaced, not silently resolved by picking the more convenient one
-- [ ] The working hypothesis rests on more than an unsupported public inference
-- [ ] You have decided which questions or path you will actually use live; this does not contact anyone on its own
+- [ ] You've checked every source and removed anything that shouldn't be there
+- [ ] The card treats public background as context, not proof of a private fact, motive or ability
+- [ ] The card names any conflict between sources, rather than quietly picking the more convenient one
+- [ ] The working hypothesis rests on more than a guess from public information
+- [ ] You've decided which questions and plan you'll use on the day; the tool doesn't contact anyone
