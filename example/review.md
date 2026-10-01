@@ -1,19 +1,19 @@
-# Honest Review: Jamie Okafor Prep Card
+# Review: Jamie Okafor Prep Card
 
-Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
+I checked [output.md](output.md) against what I built [inputs.md](inputs.md) to test.
 
 ## What Worked
 
-- **Refused to treat the LinkedIn posts as evidence of hands-on skill.** Jamie's posts about "AI in customer support" are a general topic interest, not a specific claim about incident response. The output correctly filed this under public background, useful context, not proof, rather than letting it quietly support the working hypothesis.
-- **Correctly identified the actual gap.** Four years in "a support role" sounds substantial, but the output specifically flagged that this does not confirm live incident experience, the role's stated core requirement, rather than assuming seniority or tenure implies it.
-- **Built questions that actually target the gap.** All four questions probe specifically for real incident involvement, not generic "tell me about your experience" questions that Jamie's CV could already answer without revealing anything new.
-- **Prepared a genuine fork, not just a happy path.** The output has a real answer for what happens if the hypothesis does not hold, naming the mismatch directly rather than only planning for the outcome where everything goes well.
+- **It didn't treat the LinkedIn posts as evidence of hands-on skill.** Jamie's posts about "AI in customer support" show interest in a general topic. They make no claim about incident response. The card filed them under public background, as context rather than proof, and kept them out of the working hypothesis.
+- **It found the real gap.** Four years in "a support role" sounds like a lot. The card pointed out that it doesn't confirm live incident experience, which the role says it needs most, rather than assuming time in the job proves it.
+- **Its questions aim at the gap.** All four ask about real incident work. None is a generic "tell me about your experience" question that Jamie's CV could answer without telling you anything new.
+- **It planned for both outcomes, not just the good one.** If the hypothesis doesn't hold, the card says what to do and names the mismatch directly.
 
 ## What Still Needs a Human Check
 
-- The interviewer needs to actually listen for whether Jamie's answers describe genuine ownership of an incident or a supporting role in someone else's; this card cannot judge that live.
-- If a gap is confirmed, whether it is closable quickly is a judgement call for the actual hiring team, not something this card can decide in advance.
+- The interviewer has to listen for whether Jamie's answers describe owning an incident or helping with someone else's. The card can't judge that during the interview.
+- If the gap is real, the hiring team decides whether it can close quickly. The card can't decide that in advance.
 
 ## Verdict
 
-No automatic failure. The card correctly separated a confirmed, direct fact (the ticketing tool) from an unproven public signal (the LinkedIn posts), and built the actual interview around testing the one thing that genuinely was not yet established.
+No automatic failure. The card kept a direct, confirmed fact (the ticketing tool) apart from an unproven public signal (the LinkedIn posts). It built the interview around testing the one thing nobody had yet established.

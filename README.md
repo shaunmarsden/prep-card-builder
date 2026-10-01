@@ -5,48 +5,48 @@
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
 </p>
 
-Turn scattered information into a concise, evidence-led card to scan before any important conversation, an interview, a negotiation, a difficult family conversation, a professional appointment.
+Turn scattered notes into a short card, based on evidence, to read before an important conversation: an interview, a negotiation, a hard family talk, a professional appointment.
 
 ## Why
 
-Going into an important conversation with scattered notes, a public profile, and an assumption or two dressed up as fact is a common way to get it wrong. You either miss the actual gap that matters, or walk in overconfident about something nobody has actually confirmed. This organises what is genuinely known, flags what is not, and builds questions that target the real gap, not ones already answered elsewhere.
+It's easy to get an important conversation wrong when all you have is scattered notes, a public profile and a guess or two treated as fact. You miss the gap that matters, or you walk in sure of something nobody has confirmed. This sorts what you know from what you don't, and writes questions aimed at the real gap, not at things you already know.
 
 [![A prep card built from confirmed information, public background, assumptions and unknowns.](assets/diagrams/12-prep-card-builder.svg)](SKILL.md)
 
 ## Use It
 
-Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in who this is with, the purpose, and whatever notes or background you have. It produces a card with:
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini or similar). Then paste in who the conversation is with, what it's for, and any notes or background you have. You get a card with:
 
-- **Confirmed context**, directly supported by what you actually have
-- **Public background**, useful, but never treated as proof of something private
-- **Assumptions to test** and **unknowns**, named honestly rather than papered over
-- **A working hypothesis**, one testable connection to check in the conversation itself
-- **Specific questions**, targeting the actual gap, plus a path for both outcomes
+- **Confirmed context**, backed directly by what you have
+- **Public background**, useful but never treated as proof of anything private
+- **Assumptions to test** and **unknowns**, named, not hidden
+- **A working hypothesis**, one link you can test in the conversation
+- **Specific questions** aimed at the real gap, with a plan for either answer
 
 <details>
 <summary><strong>See exactly what it produces</strong></summary>
 
-1. A source ledger, confirmed context, and public background kept clearly apart
-2. Assumptions to test and unknowns, named honestly rather than papered over
-3. One testable working hypothesis, and specific questions that target the real gap
-4. A path for both outcomes, plus a short fallback if the conversation is cut short
+1. A source ledger, with confirmed context and public background kept apart
+2. Assumptions to test and unknowns, named, not hidden
+3. One working hypothesis you can test, and questions aimed at the real gap
+4. A plan for either outcome, and a short fallback if the conversation is cut short
 
 </details>
 
-See [the worked example](example/): preparing for a job interview, where a candidate's public LinkedIn posts about a topic get correctly kept separate from confirmed, direct evidence of the actual skill the role needs. For the harder case, two sources that genuinely conflict, and a request to build the working hypothesis from an unsupported public guess, read [the second worked example](example-two/).
+See [the worked example](example/): preparing for a job interview. The card keeps the candidate's public LinkedIn posts about a topic apart from direct evidence of the skill the role needs. [The second worked example](example-two/) is harder: two sources disagree, and the request asks for the working hypothesis to rest on a guess from a public post.
 
 Use [the blank template](templates/prep-card-template.md) for your own conversation, and [the review checklist](checks/checklist.md) before you go in.
 
-No installation, project, or coding required to try it once.
+No installation, project or coding needed to try it once.
 
 ## Before You Use It
 
-You check every source, remove anything inappropriate, and decide which questions or path to actually use live. This does not contact anyone or commit to anything on its own.
+You check every source, remove anything that shouldn't be there, and decide which questions and plan to use on the day. The tool doesn't contact anyone or commit you to anything.
 
 ## Feedback
 
-Used it before a real conversation? [Start a discussion](https://github.com/shaunmarsden/prep-card-builder/discussions) if something did not fit.
+Used it before a real conversation? [Start a discussion](https://github.com/shaunmarsden/prep-card-builder/discussions) if something didn't fit.
 
 ## Part of a Family
 
-This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one actually fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) for clickable cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you would rather paste a description into an AI chat.
+This is one of a family of free tools that take patterns from [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) to click through the cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you'd rather paste a description into an AI chat.
