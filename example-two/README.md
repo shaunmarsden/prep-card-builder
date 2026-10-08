@@ -5,3 +5,5 @@ The first [example](../example/) tests keeping public background apart from conf
 - [inputs.md](inputs.md): a made-up equity talk between co-founders, with records that disagree and a request based on a guess from LinkedIn
 - [output.md](output.md): the response, which stops on the conflict and turns down the guess-based hypothesis
 - [review.md](review.md): whether both stop conditions held
+
+The repository doesn't record which model wrote this response, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.
