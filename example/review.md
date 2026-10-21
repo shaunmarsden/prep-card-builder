@@ -1,4 +1,4 @@
-# Review: Jamie Okafor Prep Card
+# Review: Jamie Ravenscroft Prep Card
 
 I checked [output.md](output.md) against what I built [inputs.md](inputs.md) to test.
 

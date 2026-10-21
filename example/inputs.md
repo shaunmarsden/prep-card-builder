@@ -4,7 +4,7 @@ An entirely fictional interview for a Senior Support Engineer role.
 
 ## Who and Purpose
 
-Candidate: Jamie Okafor. Purpose: a second-round interview to assess hands-on incident response experience, the role's most critical requirement.
+Candidate: Jamie Ravenscroft. Purpose: a second-round interview to assess hands-on incident response experience, the role's most critical requirement.
 
 ## Sources Available
 
