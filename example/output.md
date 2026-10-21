@@ -1,4 +1,4 @@
-# Prep Card: Interview with Jamie Okafor
+# Prep Card: Interview with Jamie Ravenscroft
 
 Source: [inputs.md](inputs.md).
 
